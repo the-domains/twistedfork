@@ -4,7 +4,7 @@
         <description><![CDATA[Twistedfork]]></description>
         <link>https://thegrid.ai/twistedfork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 01:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 02:11:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twistedfork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wander x APEC]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/twistedfork/wander-x-apec/index.html</link>
             <guid isPermaLink="false">b8dffe40-ceea-4149-867e-29f2225d33a9</guid>
             <pubDate>Mon, 04 Jan 2016 01:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Illos]]></title>
+            <description><![CDATA[<article><h1>Google Illos</h1><p>Google</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adb3c6fa7cbb56811933518104f6ca36ca6f4f01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/twistedfork/google-illos/index.html</link>
+            <guid isPermaLink="false">40be39ed-4e14-4d48-a656-89194bf0c38f</guid>
+            <pubDate>Mon, 04 Jan 2016 02:10:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
