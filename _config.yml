@@ -1,7 +1,7 @@
 name: Twistedfork
 favicon: null
-layout_spectrum: 0.20332205551676452
-typography_spectrum: 0.1648141359910369
+layout_spectrum: 0.93029
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6331250523217022
-  lightness: 0.005234241718426347
-  saturation: 0.81311215297319
+  brandStrength: 0
+  lightness: 0.875
+  saturation: 0.5
   rhythmicContrast: 0.9669109520036727
 purpose: []
