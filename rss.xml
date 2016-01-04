@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Twistedfork]]></title>
         <description><![CDATA[Twistedfork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twistedfork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 01:53:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 01:55:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twistedfork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wander x APEC]]></title>
-            <description><![CDATA[<article><h1>Wander x APEC</h1><p>Some of my Illustration works.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78b2b76d-d211-4e9a-8fcc-a244bc4335b2.jpg"></article>]]></description>
-            <link>undefinedwander-x-apec/index.html</link>
+            <description><![CDATA[<article><h1>Wander x APEC</h1><p>Some of my Illustration works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b156881f0fb1a3b30cff58f7fb89279f89f74dc3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/twistedfork/wander-x-apec/index.html</link>
             <guid isPermaLink="false">b8dffe40-ceea-4149-867e-29f2225d33a9</guid>
-            <pubDate>Mon, 04 Jan 2016 01:53:13 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 01:55:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
